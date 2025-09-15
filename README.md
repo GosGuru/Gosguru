@@ -16,5 +16,5 @@ Me apasionan la **oratoria, la comunicación y la negociación** para traducir i
 
 ## Contacto
 - LinkedIn: https://www.linkedin.com/in/maximo-gallo
-- Portafolio: https://maximodev-portfolio--gosguru.github.app/(tu enlace)
+- Portafolio: https://maximodev-portfolio--gosguru.github.app
 - Email: Maximogallo13@gmail.com
