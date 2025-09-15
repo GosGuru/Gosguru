@@ -12,9 +12,9 @@ Me apasionan la **oratoria, la comunicación y la negociación** para traducir i
 - Arquitectura y desarrollo front-end moderno.
 - Diseño y UX pragmática que convierte.
 - Automatizaciones (bots, integraciones, flujos n8n).
-- Comunicación clara con stakeholders y negociación ética.
+- Comunicación clara con escucha activa y negociación ética.
 
 ## Contacto
-- LinkedIn: (tu enlace)
-- Portafolio: (tu enlace)
-- Email: (tu email)
+- LinkedIn: https://www.linkedin.com/in/maximo-gallo
+- Portafolio: https://maximodev-portfolio--gosguru.github.app/(tu enlace)
+- Email: Maximogallo13@gmail.com
