@@ -1,25 +1,25 @@
-# Hi, I'm Maxi Gallo 👋 — Full-Stack Developer & Automation Engineer
+# Hola, soy Maxi Gallo 👋 — Desarrollador Full-Stack e Ingeniero de Automatización
 
-> I build fast, scalable web products and automate workflows that save real time and money.
+> Construyo productos web rápidos, escalables y automatizo flujos de trabajo que ahorran tiempo y dinero real.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-maximogallo.dev-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white)](https://maximodev-portfolio--gosguru.github.app/)
+[![Portafolio](https://img.shields.io/badge/Portafolio-maximogallo.dev-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white)](https://maximodev-portfolio--gosguru.github.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Maximo_Gallo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maximo-gallo)
-[![Email](https://img.shields.io/badge/Email-Hire_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Maximogallo13@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contrátame-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Maximogallo13@gmail.com)
 
 ---
 
-## 🚀 What I Do
+## 🚀 Lo que hago
 
-I turn ideas into production-ready products. Whether it's a **custom web app**, a **headless CMS**, or a **full automation pipeline**, I handle it end to end — from architecture to deployment.
+Transformo ideas en productos listos para producción. Ya sea una **aplicación web a medida**, un **CMS headless**, o un **pipeline de automatización completo**, me encargo de todo el proceso: desde la arquitectura hasta el despliegue.
 
-- ⚡ **Web Development** — React / Next.js apps with clean UI, great performance, and SEO built in
-- 🛒 **E-commerce & CMS** — Custom solutions with Supabase, WordPress, or Directus
-- 🤖 **Automation & Integrations** — n8n flows, bots, API integrations, and business process automation
-- 📱 **UX-First Thinking** — I design for real users: simple, fast, and conversion-focused
+- ⚡ **Desarrollo Web** — Aplicaciones React / Next.js con interfaces limpias, excelente rendimiento y SEO integrado
+- 🛒 **E-commerce & CMS** — Soluciones personalizadas con Supabase, WordPress o Directus
+- 🤖 **Automatización e Integraciones** — Flujos con n8n, bots, integraciones API y automatización de procesos de negocio
+- 📱 **Enfoque UX-First** — Diseño para usuarios reales: simple, rápido y centrado en la conversión
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Stack Tecnológico
 
 **Frontend**
 
@@ -28,14 +28,14 @@ I turn ideas into production-ready products. Whether it's a **custom web app**, 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-**Backend & Database**
+**Backend y Base de Datos**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 
-**Automation & DevOps**
+**Automatización y DevOps**
 
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -43,31 +43,31 @@ I turn ideas into production-ready products. Whether it's a **custom web app**, 
 
 ---
 
-## 📂 Featured Projects
+## 📂 Proyectos Destacados
 
-| Project | Description | Stack |
+| Proyecto | Descripción | Stack |
 |---|---|---|
-| [**SomosCamper**](https://github.com/somoscamper-collab/SomosCamper) | Full booking platform for a camper rental service — custom CMS + reservations | Next.js · Directus · PostgreSQL |
-| [**E-commerce**](https://github.com/GosGuru/Ecommerce) | Modern e-commerce app with cart, auth and product management | Next.js · TypeScript · Supabase |
-| [**VALKA Biblioteca**](https://github.com/GosGuru/VALKA---Biblioteca-) | Course/library management system | Next.js · TypeScript |
-| [**Portfolio**](https://github.com/GosGuru/maximodev-portfolio) | Personal portfolio — optimized for performance and SEO | Next.js · Tailwind |
+| [**SomosCamper**](https://somos-camper-gamma.vercel.app/) | Plataforma completa de reservas para un servicio de alquiler de campers — CMS a medida + reservas | Next.js · Directus · PostgreSQL |
+| [**E-commerce**](https://github.com/GosGuru/Ecommerce) | App de e-commerce moderna con carrito, autenticación y gestión de productos | Next.js · TypeScript · Supabase |
+| [**VALKA Biblioteca**](https://github.com/GosGuru/VALKA---Biblioteca-) | Sistema de gestión de cursos/biblioteca | Next.js · TypeScript |
+| [**Portafolio**](http://maximogallo.uy/) | Portafolio personal — optimizado para rendimiento y SEO | Next.js · Tailwind |
 
 ---
 
-## 💼 Open to Work
+## 💼 Disponible para trabajar
 
-I'm available for:
-- **Freelance projects** (web apps, automation, integrations)
-- **Full-time or contract roles** as Frontend / Full-Stack Developer
-- **Technical consulting** for startups and small businesses
+Estoy disponible para:
+- **Proyectos freelance** (apps web, automatización, integraciones)
+- **Roles a tiempo completo o por contrato** como Desarrollador Frontend / Full-Stack
+- **Consultoría técnica** para startups y pequeñas empresas
 
-I work remotely and communicate clearly. You get clean code, honest timelines, and real results.
+Trabajo de forma remota y me comunico de manera clara. Obtendrás código limpio, plazos honestos y resultados reales.
 
-📩 **Let's talk:** [Maximogallo13@gmail.com](mailto:Maximogallo13@gmail.com)
+📩 **Hablemos:** [Maximogallo13@gmail.com](mailto:Maximogallo13@gmail.com)
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Estadísticas de GitHub
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=GosGuru&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="150" />
@@ -76,4 +76,4 @@ I work remotely and communicate clearly. You get clean code, honest timelines, a
 
 ---
 
-<sub>Based in Uruguay 🇺🇾 · Open to remote work worldwide</sub>
+<sub>Ubicado en Uruguay 🇺🇾 · Disponible para trabajo remoto a nivel mundial</sub>
