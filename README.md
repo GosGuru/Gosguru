@@ -1,79 +1,48 @@
-# Hola, soy Maxi Gallo 👋 — Desarrollador Full-Stack e Ingeniero de Automatización
+# Máximo Gallo — Full-Stack Developer
 
-> Construyo productos web rápidos, escalables y automatizo flujos de trabajo que ahorran tiempo y dinero real.
+Construyo productos web que resuelven problemas de negocio: desde la experiencia de usuario hasta la base de datos, las integraciones y el despliegue.
 
-[![Portafolio](https://img.shields.io/badge/Portafolio-maximogallo.dev-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white)](https://maximodev-portfolio--gosguru.github.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Maximo_Gallo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maximo-gallo)
-[![Email](https://img.shields.io/badge/Email-Contrátame-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Maximogallo13@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-maximogallo.uy-0A66C2?style=flat-square)](https://www.maximogallo.uy/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Máximo_Gallo-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/maximo-gallo)
+[![Email](https://img.shields.io/badge/Email-Contacto-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:Maximogallo13@gmail.com)
 
----
+## En 30 segundos
 
-## 🚀 Lo que hago
+- Desarrollo aplicaciones con **React, Next.js y TypeScript**.
+- Diseño flujos completos con **Supabase, PostgreSQL, APIs y automatizaciones**.
+- Trabajo con foco en **producto, negocio, UX y resultados verificables**.
+- Puedo llevar una idea desde el modelado y la arquitectura hasta producción.
 
-Transformo ideas en productos listos para producción. Ya sea una **aplicación web a medida**, un **CMS headless**, o un **pipeline de automatización completo**, me encargo de todo el proceso: desde la arquitectura hasta el despliegue.
+## Trabajo seleccionado
 
-- ⚡ **Desarrollo Web** — Aplicaciones React / Next.js con interfaces limpias, excelente rendimiento y SEO integrado
-- 🛒 **E-commerce & CMS** — Soluciones personalizadas con Supabase, WordPress o Directus
-- 🤖 **Automatización e Integraciones** — Flujos con n8n, bots, integraciones API y automatización de procesos de negocio
-- 📱 **Enfoque UX-First** — Diseño para usuarios reales: simple, rápido y centrado en la conversión
-
----
-
-## 🛠️ Stack Tecnológico
-
-**Frontend**
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-**Backend y Base de Datos**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
-
-**Automatización y DevOps**
-
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-
----
-
-## 📂 Proyectos Destacados
-
-| Proyecto | Descripción | Stack |
+| Proyecto | Problema y solución | Evidencia técnica |
 |---|---|---|
-| [**SomosCamper**](https://somos-camper-gamma.vercel.app/) | Plataforma completa de reservas para un servicio de alquiler de campers — CMS a medida + reservas | Next.js · Directus · PostgreSQL |
-| [**E-commerce**](https://github.com/GosGuru/Ecommerce) | App de e-commerce moderna con carrito, autenticación y gestión de productos | Next.js · TypeScript · Supabase |
-| [**VALKA Biblioteca**](https://github.com/GosGuru/VALKA---Biblioteca-) | Sistema de gestión de cursos/biblioteca | Next.js · TypeScript |
-| [**Portafolio**](http://maximogallo.uy/) | Portafolio personal — optimizado para rendimiento y SEO | Next.js · Tailwind |
+| [CantoCoach](https://github.com/GosGuru/CantoCoach) · [Demo](https://canto-coach-chi.vercel.app/) | Entrenador vocal local-first que mide intentos y entrega una corrección prioritaria sin guardar el audio completo. | Web Audio API, detector YIN, reglas de seguridad, pruebas automatizadas y CI. |
+| [CRM Setter](https://github.com/GosGuru/CRM-SETTER) | CRM operativo para setters y closers con ingreso seguro de leads desde ManyChat y seguimiento de KPI. | Next.js, Supabase, endpoints autenticados, deduplicación y dashboard de negocio. |
+| [Autos Bustamante](https://github.com/GosGuru/webRental_Car) · [Demo](https://web-rental-car.vercel.app/) | Catálogo comercial con panel administrativo mobile-first para gestionar vehículos, categorías, imágenes y consultas. | Next.js, PostgreSQL, Prisma, Auth.js, Cloudinary y diseño responsive. |
+| [FastService](https://github.com/GosGuru/FastService) · [Demo](https://fast-service-pi.vercel.app/) | Sitio bilingüe para servicios premium con contenido editable, blog, galerías y catálogo de embarcaciones. | Next.js, Supabase Auth, Storage, RLS y editor de contenido. |
 
----
+## Cómo trabajo
 
-## 💼 Disponible para trabajar
+1. Entiendo el problema antes de elegir tecnología.
+2. Divido el trabajo en entregables verificables.
+3. Documento decisiones, límites y pasos de ejecución.
+4. Valido calidad con lint, tipos, pruebas y build cuando el proyecto lo permite.
+5. Entrego una experiencia usable tanto en escritorio como en móvil.
 
-Estoy disponible para:
-- **Proyectos freelance** (apps web, automatización, integraciones)
-- **Roles a tiempo completo o por contrato** como Desarrollador Frontend / Full-Stack
-- **Consultoría técnica** para startups y pequeñas empresas
+## Stack principal
 
-Trabajo de forma remota y me comunico de manera clara. Obtendrás código limpio, plazos honestos y resultados reales.
+**Frontend:** React · Next.js · TypeScript · Tailwind CSS
 
-📩 **Hablemos:** [Maximogallo13@gmail.com](mailto:Maximogallo13@gmail.com)
+**Backend y datos:** Node.js · Supabase · PostgreSQL · Prisma
 
----
+**Integraciones:** REST APIs · Webhooks · n8n · ManyChat
 
-## 📊 Estadísticas de GitHub
+**Entrega:** GitHub Actions · Vercel
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=GosGuru&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GosGuru&layout=compact&theme=github_dark&hide_border=true" height="150" />
-</p>
+## Disponible para trabajar
 
----
+Busco roles remotos como **Frontend Developer** o **Full-Stack Developer**, con especial interés en equipos de producto donde pueda combinar desarrollo, criterio de negocio y comunicación clara.
 
-<sub>Ubicado en Uruguay 🇺🇾 · Disponible para trabajo remoto a nivel mundial</sub>
+📍 Uruguay · 🌎 Remoto · 📩 [Maximogallo13@gmail.com](mailto:Maximogallo13@gmail.com)
+
